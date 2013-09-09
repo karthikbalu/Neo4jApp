@@ -13,5 +13,5 @@ Youtube that can map relationship between any global data also usefull to genera
 
 Application
 ===========
-Based on the users interest graph, news articles youtube videos or technically any content can be retrieved based on used 
-interest graph and real time interest based search can be performed will all the preprocessed information
+Based on the users interest graph, news articles youtube videos or technically any content can be retrieved based on user 
+interest graph and can deliver real time content based on interest based search using pre processed information
