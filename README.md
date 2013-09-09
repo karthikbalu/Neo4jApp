@@ -15,3 +15,5 @@ Application
 ===========
 Based on the users interest graph, news articles youtube videos or technically any content can be retrieved based on user 
 interest graph and can deliver real time content based on interest based search using pre processed information
+
+MAMP can be used to setup this application (htdocs folder is available here...)
