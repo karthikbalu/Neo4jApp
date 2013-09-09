@@ -1,5 +1,5 @@
-Neo4jApp
-========
+Heuristic Information Processing based on Youtube Data
+======================================================
 
 Extracts Youtube content and performs unique heuristic computation to capture information and stores it in MYSQL database temporarily 
 and maps all stuctured nodes to Neo4J database for further usage
