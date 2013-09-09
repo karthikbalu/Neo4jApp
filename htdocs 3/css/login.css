@@ -1,0 +1,251 @@
+body
+{
+background-image: url("../img/barak.jpg");
+background-size: 100% 100%;
+
+}
+
+a
+{
+  color: #999;
+  text-decoration: none;
+}
+.logolink
+{
+  color: #fff;
+  text-decoration: none;
+
+}
+.loginwrapper{
+	float:left;
+		width:100%;
+	height:100%;
+	font-family: arial;
+	font-size:24pt;
+}
+
+li
+{
+    list-style-type: none;
+    margin-top: 1%;
+}
+.loginsection{
+	
+	margin-left:8%;
+	margin-top:2%;
+    border-radius:1%;
+	width:80%;
+	height:50%;
+	float:left;
+}
+.logo{
+	float:left;
+	width:20%;
+	height:10%;
+	margin-left:10%;
+	margin-top:5%;
+	color:#fff;
+	font-family:"Arial"; 
+	font-size:140%;	
+}
+
+.sublogotext{
+	float:left;
+    margin-top: 2%;
+	margin-left: 10%;
+	width:72%;
+	height:4%;
+	font-size: 110%;
+	color:#fff;
+font-family: 'Source Sans Pro', sans-serif;
+	
+}
+.heading1,.heading11{
+	float:left;
+	width:84%;
+	height:4%;
+	font-size: 100%;
+	margin-top: 6%;
+	margin-left: 8%;
+	color:#777;
+
+font-family: 'Source Sans Pro', sans-serif;
+	
+}
+
+.heading11
+{
+   margin-left: 22%;
+   font-size: 80%;
+   color: #333;
+}
+
+.heading3{
+	float:left;
+	width:70%;
+	height:4%;
+	font-size: 100%;
+	margin-top: 10%;
+	margin-left: 10%;
+	color:#777;
+
+font-family: 'Source Sans Pro', sans-serif;
+	
+}
+
+
+.loginleft{
+	float:left;
+	width:65%;
+	margin-left: 3%;
+	height:100%;	
+	opacity: 0.9;
+	background-color: #ccc;
+}
+.loginright{
+	float:left;
+		width:30%;
+	height:100%;
+	margin-left: 1%;
+		
+	opacity: 0.9;
+		background-color: #ccc;
+}
+
+
+.signuptext
+{
+  float:left;
+  height: 27%;
+  width: 90%;
+  font-size: 70%;
+  padding-top: 5%;
+  padding-left: 27%;
+  display: none;
+}
+
+
+.signup
+{
+    float: left;
+    width: :90%;
+    margin-top: 0%;
+    margin-left: 7%;
+    height: 80%;   
+
+}
+.innerloginright{
+	float:left;
+	margin-top:10%;
+	margin-left: 10%;
+	width:80%;
+	height:70%;
+}
+
+.innerloginleft{
+	float:left;
+	
+	width:100%;
+	height:70%;
+	color: #555;
+	
+	font-size: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.ipbox{
+    float:left;
+	width:100%;
+	height:19%;
+	margin-top: 9%;
+	overflow: hidden;
+}
+
+.ibox,.ibox1{
+	float:left;
+	width:100%;
+	opacity: 0.8;
+	color: #777;
+	height:15%;
+	font-size: 40%;
+	border-radius: 1%;
+	margin-top:10%;
+}
+
+
+
+.ibox1{
+	width: 30%;
+	height: 100%;
+	margin-left: 2%;
+	border-radius: 2%;
+	margin-top: 0%;
+}
+.iforgot{
+	float:left;
+	width:100%;
+	opacity: 0.8;
+	color: #777;
+	height:7%;
+	font-size: 40%;
+	margin-top:2%;
+}
+.ibutton,.ifbbtn{
+	float:left;
+	width:40%;
+	margin-left:60%;
+	border-radius:1%;
+	height:12%;
+	margin-top:2%;   
+	color:#fff;
+	font-size: 50%;
+	padding-top:2%;
+	text-align: center;
+	font-weight:600;
+	font-family: 'Source Sans Pro', sans-serif;
+	background:-webkit-gradient(linear,left top, left bottom, from(#2AAEEC), to(#4FAACE));
+	opacity:1; 
+}
+
+.ifbbtn
+{
+  float: right;
+  color:#fff;
+  font-size: 50%;
+  padding-top:1%;
+  height:15%;
+  width:30%;
+  text-align: center;
+  background:-webkit-gradient(linear,left top, left bottom, from(#2AAEEC), to(#4FAACE));
+  opacity:1;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight:600;
+  margin-right: 4%; 
+}
+
+.footer{
+	float:left;
+	margin-top:5%;
+	border-radius:1%;
+	width:100%;
+	height:5%;
+	font-size: 35%;
+	color: #999;
+	
+}
+.footer1{
+	float:left;
+	margin-left:11%;	
+}
+
+.footer2{
+	float:left;
+	margin-left: 40.5%;
+	
+}
+.footer3{
+	float:left;
+	margin-top:-1%;
+	margin-left: 1%;
+	
+}

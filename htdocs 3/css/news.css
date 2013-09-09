@@ -1,0 +1,231 @@
+*{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.newswrapper{
+	float:left;
+	background-color:#F2f2f2;
+	background-size: 100% 100%;
+	width:100%;
+	height:300%;
+	font-size:24pt;
+}
+.newsbody{
+	width:78%;
+	height: 93%;
+	float: left;
+	margin-left: 10%;
+	background-color: #fff;
+}
+.newsheader{
+	width: 76%;
+	background-color: #fff;
+	position: fixed;
+	z-index: 1000;
+	margin-top: -2%;
+	height: 10%;
+	float: left;
+}
+
+.profile{
+	float: left;
+	width:12%;
+	height: 70%;
+	padding: 1%;
+	margin-top: 10%;
+	position: fixed;
+	margin-left: 1.2%;
+	border-radius:1%;
+	background-color: #f2f2f2;
+}
+
+.profileimg{
+	background-color: #aaa;
+	width: 99%;
+	height: 25%;
+	float: left;
+	background-size: 100% 100%;
+}
+
+.loading{
+	width: 71%;
+	height: 3%;
+	margin-left: 1%;
+	margin-top: 2%;
+	padding: .1%;
+	color: #999;
+	float: left;
+	font-size: 50%;
+	border-radius: 0.3%;
+}
+.loadingimg{
+	float: left;
+	margin-left: 40%;
+	width:5%;
+	height:50%;
+	background-image: url("../img/loading.gif");
+	background-size: 100% 100%;
+}
+
+.newsfeed{
+	width: 65%;
+	height: 82%;
+	margin-left: 25%;
+	margin-top: 2%;
+	padding: 4%;
+	color:#999;
+	float: left;
+	
+	font-size: 50%;
+	border-radius:0.3%;
+	text-justify: inherit;
+	background-color: #Fff;
+}
+
+
+.newsfooter{
+	width: 100%;
+	height: 10%;
+	float: left;
+	background-color: #555;
+}
+.newslogo{
+	width:18%;
+	height:100%;
+	float: left;
+	color:#4FAACE; 	
+	padding-top: 2%;
+	padding-left: 6%;
+}
+.newsmenu{
+	width:70%;
+	height:100%;
+	float: left;	
+	color:#4FAACE;
+	font-size: 70%;
+	font-weight: 100;
+	padding-top: 2%;
+	text-align: right;
+}
+
+.footer{
+	float:left;
+	
+	margin-top:5%;
+	border-radius:1%;
+	width:100%;
+	height:5%;
+	font-size: 35%;
+	color: #999;
+	
+}
+.footer1{
+	float:left;
+	margin-left:18%;	
+}
+.footer2{
+	float:left;
+	margin-left: 33%;
+	
+}
+
+.docemptyspan{
+margin-top: -50%;
+float: left;
+font-weight: 700;
+font-size: 220%;
+z-index: 10000;
+color: white;
+background-color: black;
+filter: alpha(opacity=50);
+-moz-opacity: 0.5;
+-khtml-opacity: 0.5;
+opacity: 0.6;
+height: 0%;
+padding: 3%;
+
+}
+
+.docspan{
+margin-top: -80%;
+float: left;
+font-weight: 700;
+font-size: 110%;
+z-index: 10000;
+color: white;
+background-color: black;
+filter: alpha(opacity=50);
+-moz-opacity: 0.5;
+-khtml-opacity: 0.5;
+opacity: 0.6;
+height: 10%;
+padding: 3%;
+
+}
+
+.docsnippet img{
+z-index=0;
+}
+
+
+
+.docinnerframe{
+display: none;
+padding-left: 10%;
+padding-right: 10%;
+background-color: #E9E3E3;
+width: 80%;
+height: 100%;
+}
+
+.docdocument{
+width:98%;
+height:6%;
+padding: 1%;
+overflow:hidden;
+margin-left:0%;
+margin-top:20px;
+border-width:1px;
+border-style:solid;
+border-color:#f2f2f2;
+border-radius:0px;
+float:left;
+/*
+background: -moz-linear-gradient(top, #999, #ccc);
+          Chrome and Safari:
+         background: -webkit-gradient(linear,left top, left bottom, from(#ffffff), to(#eeeeee));
+ filter: progid:DXImageTransform.Microsoft.Gradient(StartColorStr='#999', EndColorStr='#ccc', GradientType=0);
+*/
+cursor:default;
+       background-color:#fff;
+}
+.doctitle{
+width:60%;
+height:33%;
+float:left;
+color:#333;
+background-color:#fff;
+padding:5%;
+}
+.docsnippet{
+opacity:0.97;
+background-size: 100% 100%;
+width:30%;
+height:100%;
+float:left;
+font-size:5pt;
+background-repeat:no-repeat;
+overflow:hidden;
+background-color:#fff;
+}
+.docurl{
+padding-left:5px;
+padding-top:10%;
+width:100%
+background-color:#F7F5F5;
+float:left;
+font-size:5pt;
+color:#123456;
+text-decoration:underline;
+}
+
+
